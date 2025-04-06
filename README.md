@@ -2,7 +2,7 @@
 
 # 👨‍💻 Rishabh Miital
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building,+Breaking,+Learning+Daily)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Solving+complex+problems+with+simple,+elegant+code.;Building,+Breaking,+Learning+Daily)](https://git.io/typing-svg)
 
 </div>
 
@@ -73,20 +73,20 @@
 // Tools in my daily workflow
 
 const RishabhMittal = {
-  code: ["JavaScript", "TypeScript", "Python", "Go", "Java"],
+  code: ["JavaScript", "Python", "Java", "PHP", "SQL"],
   frontEnd: {
-    frameworks: ["React", "Next.js", "Redux"],
-    styling: ["Tailwind CSS", "Chakra UI", "Styled Components"],
-    mobile: ["React Native", "Flutter"]
+    frameworks: ["React", "Next.js", "jQuery"],
+    styling: ["Tailwind CSS", "CSS3", "Bootstrap"],
+    mobile: ["React Native"]
   },
   backEnd: {
-    frameworks: ["Node.js", "Express", "Flask"],
-    realTime: ["Socket.IO", "WebSockets"],
-    databases: ["MongoDB", "PostgreSQL", "NeonDB", "Firebase", "SQLite"]
+    frameworks: ["Node.js", "Express", "Flask", "PHP"],
+    realTime: ["Socket.IO"],
+    databases: ["MongoDB", "MySQL", "Firebase"]
   },
-  devOps: ["Vercel", "Render", "AWS", "Docker"],
-  currentFocus: "Building scalable applications with microservices architecture",
-  funFact: "I debug for 3 hours, fix it in 1 line, then question my existence."
+  devOps: ["Vercel", "Render", "Netlify", "GitHub Actions"],
+  currentFocus: "AI-powered web applications for healthcare and gamified civic education",
+  funFact: "Once made a snake eat green squares on GitHub, but it didn’t like the light theme."
 };
 ```
 
