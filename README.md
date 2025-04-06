@@ -119,6 +119,6 @@ const RishabhMittal = {
 
 **The Dev Journey**<br>
 
-![snake gif](https://github.com/RishabhMittall/RishabhMittall/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/RishabhhMittall/RishabhhMittall/blob/output/github-snake-dark.svg)
 
 </div>
