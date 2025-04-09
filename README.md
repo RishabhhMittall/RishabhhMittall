@@ -2,7 +2,7 @@
 
 # 👨‍💻 Rishabh Miital
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Solving+Complex+Problems;Building,+Breaking,+Learning+Daily)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Solving+Complex+Problems;Building,+Breaking,+&Learning+Daily)](https://git.io/typing-svg)
 
 </div>
 
